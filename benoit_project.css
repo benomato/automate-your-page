@@ -1,0 +1,75 @@
+/* CSS code for stage0.html */
+
+body {
+	font-family: helvetica;
+	padding: 10px;
+	max-width: 2000px;
+	margin: 0 auto;
+	font-size: 22px;
+}
+
+#TOC { 
+	color: #0C5DA5;
+}
+
+#TOC_title {
+	text-align: center;
+}
+
+#index ul {
+	list-style-type: none;
+}
+
+#index li {
+	line-height: 44px;
+}
+
+.chapters {
+	background-color: #ff9500;
+	margin-bottom: 10px;
+	padding: 20px;
+	border-radius: 30px;
+}
+
+.title {
+	color: white;
+	text-align:	center;
+}
+
+.subsection {
+	background-color: #FFC573;
+	margin-bottom: 10px;
+	padding: 20px;
+	border-radius: 30px;
+}
+
+h1 {
+	color: #0C5DA5;
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+	margin-top: 0;
+	color: #0C5DA5;
+}
+
+h4 {
+	color: #0C5DA5;
+}
+
+#images {
+	text-align: center;
+}
+
+.highlights {
+	color: #0C5DA5;
+}
+
+b, em {
+	color: #0C5DA5;
+}
+
+.no_color {
+	color: black;
+}
